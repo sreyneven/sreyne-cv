@@ -55,6 +55,9 @@ h1{
 .container .text{
     width: 70%;
 }
+.container img{
+    margin-left: 10px;
+}
 button{
     justify-content: center;
     padding: 10px;
